@@ -11,7 +11,21 @@
       "thumb": "minimalizm/thumbs/m2.jpeg",
       "full":  "minimalizm/full/m2.png",
       "tags": ["minimal","light"]
+    },
+      { "id": "m3", "title": "M3",
+      "thumb": "minimalizm/thumbs/m3.jpeg",
+      "full":  "minimalizm/full/m3.png",
+      "tags": ["minimal","light"]
+    },
+      { "id": "m4", "title": "M4",
+      "thumb": "minimalizm/thumbs/m4.jpeg",
+      "full":  "minimalizm/full/m4.png",
+      "tags": ["minimal","light"]
+    },
+      { "id": "m5", "title": "M5",
+      "thumb": "minimalizm/thumbs/m5.jpeg",
+      "full":  "minimalizm/full/m5.png",
+      "tags": ["minimal","light"]
     }
-    // добавляй остальные m3…m5 и т.д.
   ]
 }
