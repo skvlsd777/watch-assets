@@ -1,0 +1,17 @@
+{
+  "category": "minimalizm",
+  "version": 1,
+  "items": [
+    { "id": "m1", "title": "M1",
+      "thumb": "minimalizm/thumbs/m1.jpeg",
+      "full":  "minimalizm/full/m1.png",
+      "tags": ["minimal","dark"]
+    },
+    { "id": "m2", "title": "M2",
+      "thumb": "minimalizm/thumbs/m2.jpeg",
+      "full":  "minimalizm/full/m2.png",
+      "tags": ["minimal","light"]
+    }
+    // добавляй остальные m3…m5 и т.д.
+  ]
+}
