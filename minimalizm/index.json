@@ -3,27 +3,27 @@
   "version": 1,
   "items": [
     { "id": "m1", "title": "M1",
-      "thumb": "minimalizm/thumbs/m1.jpeg",
+      "thumb": "minimalizm/thumbs/m1.jpg",
       "full":  "minimalizm/full/m1.png",
       "tags": ["minimal","dark"]
     },
     { "id": "m2", "title": "M2",
-      "thumb": "minimalizm/thumbs/m2.jpeg",
+      "thumb": "minimalizm/thumbs/m2.jpg",
       "full":  "minimalizm/full/m2.png",
       "tags": ["minimal","light"]
     },
       { "id": "m3", "title": "M3",
-      "thumb": "minimalizm/thumbs/m3.jpeg",
+      "thumb": "minimalizm/thumbs/m3.jpg",
       "full":  "minimalizm/full/m3.png",
       "tags": ["minimal","light"]
     },
       { "id": "m4", "title": "M4",
-      "thumb": "minimalizm/thumbs/m4.jpeg",
+      "thumb": "minimalizm/thumbs/m4.jpg",
       "full":  "minimalizm/full/m4.png",
       "tags": ["minimal","light"]
     },
       { "id": "m5", "title": "M5",
-      "thumb": "minimalizm/thumbs/m5.jpeg",
+      "thumb": "minimalizm/thumbs/m5.jpg",
       "full":  "minimalizm/full/m5.png",
       "tags": ["minimal","light"]
     }
